@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+      <item
+            android:id="@+id/navigation_start"
+            android:icon="@drawable/ic_directions_walk"
+            android:title="@string/title_cont_one" />
+
+      <item
+            android:id="@+id/navigation_step_in"
+            android:icon="@drawable/ic_directions_run"
+            android:title="@string/title_cont_two" />
+
+      <item
+            android:id="@+id/navigation_move"
+            android:icon="@drawable/ic_directions_bike"
+            android:title="@string/title_cont_three" />
+
+      <item
+            android:id="@+id/navigation_fast"
+            android:icon="@drawable/ic_directions_car"
+            android:title="@string/title_cont_four" />
+
+</menu>

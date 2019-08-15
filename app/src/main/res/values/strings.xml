@@ -1,0 +1,8 @@
+<resources>
+      <string name="app_name">BottomNavigationWithoutFragment</string>
+      <string name="it"><![CDATA[IT & Devices]]></string>
+      <string name="title_cont_one">One</string>
+      <string name="title_cont_two">Two</string>
+      <string name="title_cont_three">Three</string>
+      <string name="title_cont_four">Four</string>
+</resources>
